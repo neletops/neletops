@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @neletops
+- 👀 I’m interested in urban data analytics
+- 🌱 I’m currently doing my thesis on social interactions in urban environments
+- 📫 How to reach me: nele.tops@student.kuleuven.be
